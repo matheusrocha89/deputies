@@ -14,6 +14,12 @@ the data and make a easy access to this data for the people and the app seems to
 The app is made in React Native and uses the Apollo GraphQL Client to connect to the server and
 consume the data.
 
+## Dependencies
+
+To run this project you need to have the open GraphQL API running locally in your machine,
+so go the [project page](https://github.com/matheusrocha89/graphql-camara-deputados) and check the
+documentation to see how to run the server locally.
+
 ## How to run
 
 First clone the project, after that install the dependencies:

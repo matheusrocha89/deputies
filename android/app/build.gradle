@@ -1,4 +1,6 @@
 apply plugin: "com.android.application"
+// Configuration for react-native-config library to manage env variables
+apply from: project(':react-native-config').projectDir.getPath() + "/dotenv.gradle"
 
 import com.android.build.OutputFile
 

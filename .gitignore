@@ -57,3 +57,7 @@ buck-out/
 
 # CocoaPods
 /ios/Pods/
+ios/tmp.xcconfig
+.env.dev
+.env.staging
+.env.production

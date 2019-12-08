@@ -1,7 +1,7 @@
 import {createAppContainer} from 'react-navigation';
 import {createStackNavigator} from 'react-navigation-stack';
 
-import {ListDeputies, DeputyDetails} from '../screens';
+import {ListDeputies, DeputyDetails, ListExpenses} from '../screens';
 
 const AppNavigator = createStackNavigator(
   {
@@ -10,6 +10,9 @@ const AppNavigator = createStackNavigator(
     },
     DeputyDetails: {
       screen: DeputyDetails,
+    },
+    ListExpenses: {
+      screen: ListExpenses,
     },
   },
   {

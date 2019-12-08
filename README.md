@@ -76,3 +76,7 @@ You can find more commands on `scripts` session of the `package.json` file.
 To know more how to run a React Native app in devices, emulators and simulators you can read more about on these links:
  - [Running on device](https://facebook.github.io/react-native/docs/running-on-device)
  - [Running on iOS Simulator](https://facebook.github.io/react-native/docs/running-on-simulator-ios).
+ 
+## Contribution
+
+Here you can see our [contribution guideline](https://github.com/matheusrocha89/deputies/blob/master/CONTRIBUTING.md)

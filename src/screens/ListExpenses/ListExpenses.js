@@ -12,7 +12,7 @@ const QUERY = gql`
       id: $deputyId
       first: 20
       after: $cursor
-      ordenarPor: "mes"
+      ordenarPor: "dataDocumento"
       ordem: "desc"
     ) {
       pageInfo {
